@@ -2,7 +2,7 @@ module.exports.config = {
  name: "war",
  version: "1.0.0",
  hasPermssion: 2,
- credits: "Shahadat SAHU",
+ credits: "Mahim Ahmed",
  description: "গালি টু গালি",
  commandCategory: "group",
  usages: "prefix+war",
